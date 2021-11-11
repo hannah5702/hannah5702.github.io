@@ -20,7 +20,7 @@ title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "신한나"
-description              : "시스템 프로그램을 위한 C언어"
+description              : "다리미가 좋아하는 음식은 피자"
 url                      : "https://hannah5702.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hannah5702/hannah5702.github.io"
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "신한나"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/파일이름.파일형식"
+  bio              : "무대홍~<3"
   location         : "대한민국, 서울"
   email            : "hn3965697@gmail.com"
   links:
